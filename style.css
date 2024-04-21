@@ -96,3 +96,31 @@ header{
   text-decoration:2px pink underline ;
   text-align:center;
 }
+#fh1{
+  text-align:center;
+  color:#ff7300;
+}
+#myimage{
+  border-radius:30px;
+  box-shadow:0 0 10px #605c5c;
+  position:absolute;
+  left:70%;
+  top:120px;
+}
+#im2{
+  font-family:Helvettica;
+  font-weight:bold;
+  color:#ff7300;
+  font-size:20px;
+  position:absolute;
+  left:77%;
+  top:425px;
+}
+#linkedin{
+   color:#ff7300;
+  font-size:20px;
+}
+#github{
+   color:#ff7300;
+  font-size:20px;
+}
