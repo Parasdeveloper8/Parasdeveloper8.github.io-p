@@ -64,3 +64,28 @@
   font-weight:bold;
   color:white;
 }
+#cert{
+  position:absolute;
+  left:30%;
+  top:80px;
+  height:800px;
+  width:605px;
+  border:1px solid white;
+  box-shadow:0 0 10px #605c5c;
+}
+#fh1{
+  text-align:center;
+  color:#ff7300;
+  position:absolute;
+  left:77%;
+}
+h2{
+  font-size:20px;
+  color:#ee3f5c;
+  position:absolute;
+  left:80%;
+  top:80px;
+  font-family:Raleway;
+  font-weight:bold;
+  text-decoration:2px black underline dotted;
+}
