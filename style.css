@@ -123,3 +123,25 @@ header{
    color:#ff7300;
   font-size:20px;
 }
+#pp1{
+  color:#ff7300;
+  font-size:20px;
+  text-decoration:2px #000000 underline;
+}
+ul{
+  font-family:fantasy;
+  font-size:20px;
+  color:#f7405f;
+}
+#pos{
+  position:absolute;
+  left:80%;
+  top:100%;
+}
+#th{
+  color:#ff7300;
+  font-size:30px;
+  position:absolute;
+  top:120%;
+  left:40%;
+}
