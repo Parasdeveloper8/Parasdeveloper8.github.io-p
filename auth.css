@@ -1,0 +1,51 @@
+#h1{
+  position:absolute;
+  left:40%;
+  text-decoration:2px pink underline dotted;
+}
+fieldset{
+  position:absolute;
+  top:20%;
+  left:40%;
+  width:400px;
+  height:200px;
+  border:1px solid white;
+  box-shadow:0 0 10px #605c5c;
+  border-radius:10px;
+}
+#email{
+  border:1px solid black;
+  border-radius:5px;
+  width:300px;
+  height:30px;
+  text-align:center;
+}
+#password{
+  border:1px solid black;
+  border-radius:5px;
+  width:300px;
+  height:30px;
+  text-align:center;
+}
+#password2{
+  border:1px solid black;
+  border-radius:5px;
+  width:300px;
+  height:30px;
+  text-align:center;
+}
+button{
+  border:1px solid white;
+  border-radius:5px;
+  width:80px;
+  height:30px;
+  box-shadow:0 0 10px #605c5c;
+  color:white;
+  background-color:#f7405f;
+  position:absolute;
+  top:60%;
+  left:42%;
+}
+button:hover{
+  background-color:#550714;
+}
