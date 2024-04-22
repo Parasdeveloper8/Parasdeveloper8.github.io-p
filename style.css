@@ -26,6 +26,12 @@ header{
   background-color:#f7405f ;
   box-shadow:0 0 10px #f7405f;
 }
+#fd2:hover{
+  background-color:#550714;
+}
+#fd3:hover{
+  background-color:#550714;
+}
 #fd2{
   width:180px;
   height:75px;
@@ -88,7 +94,6 @@ header{
   text-align:center;
 }
 .cdp1{
- font-weight:30px;
   font-family:sans-serif;
   font-weight:bold;
   color:black;
