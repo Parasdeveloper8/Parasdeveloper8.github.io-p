@@ -147,11 +147,13 @@ header{
 }
 #linkedin{
    color:#ff7300;
-  font-size:20px;
+   font-size:20px;
+   text-decoration:none;
 }
 #github{
    color:#ff7300;
-  font-size:20px;
+   font-size:20px;
+   text-decoration:none;
 }
 #pp1{
   color:#ff7300;
